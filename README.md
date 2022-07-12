@@ -1,3 +1,5 @@
 # Kanisius Hasno
 # 311910296
-# Uas pemrograman web - sistem aplikasi loket
+# Uas Pemrograman Web - Sistem Aplikasi Loket
+# Link Video
+# https://youtu.be/v3baUPv-kZg
